@@ -1,0 +1,29 @@
+hostname,ip,edificio
+Servidor 1,192.168.0.1,Sucursal
+Servidor 2,192.168.0.2,Sucursal
+Servidor 3,192.168.0.3,Sucursal
+Servidor 4,192.168.0.4,Sucursal
+Servidor 5,192.168.0.5,Sucursal
+Servidor 6,192.168.0.6,Sucursal
+Servidor 7,192.168.0.7,Sucursal
+Servidor 8,192.168.0.8,Sucursal
+Servidor 9,192.168.0.9,Sucursal
+Servidor 10,192.168.0.10,Sucursal
+Servidor 11,192.168.0.11,Sucursal
+Servidor 12,192.168.0.12,Sucursal
+Servidor 13,192.168.0.13,Deposito
+Servidor 14,192.168.0.14,Deposito
+Servidor 15,192.168.0.15,Deposito
+Servidor 16,192.168.0.16,Deposito
+Servidor 17,192.168.0.17,Deposito
+Servidor 18,192.168.0.18,Deposito
+Servidor 19,192.168.0.19,Deposito
+Servidor 20,192.168.0.20,Casa central
+Servidor 21,192.168.0.21,Casa central
+Servidor 22,192.168.0.22,Casa central
+caca2,Inove,12345678
+prueba1,192.168.0.2,casa de dios
+srv2,192.168.0.22,oficina
+caca3,10.0.0.1,mi casa
+caca4,10.0.0.2,central
+caca5,10.0.0.5,casa
